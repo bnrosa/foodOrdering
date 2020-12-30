@@ -1,4 +1,4 @@
-# Food Ordering API foor Automated Orders
+# Food Ordering API for Automated Orders
 
 This bot is on early early stage, but we still have some useful features. It mostly depends on and it's based on google's Puppeteer. The goal is to be able to order food via this bot, that should be able to provide a nice API for small food subscription businesses making many orders a day.
 
